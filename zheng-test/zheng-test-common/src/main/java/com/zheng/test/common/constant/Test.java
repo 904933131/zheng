@@ -27,7 +27,4 @@ package com.zheng.test.common.constant;
  */
 
 public class Test {
-    public static void main(String[] args) {
-        System.out.println("项目第二期个人业务开发中。。。。");
-    }
 }
