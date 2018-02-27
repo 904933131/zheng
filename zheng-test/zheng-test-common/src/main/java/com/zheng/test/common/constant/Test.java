@@ -1,4 +1,4 @@
-package service;
+package com.zheng.test.common.constant;
 
 /**
  * ━━━━━━神兽出没━━━━━━
@@ -22,16 +22,9 @@ package service;
  * ━━━━━━感觉萌萌哒━━━━━━
  *
  * @Author Mr.Li
- * @Date 2018/1/29 10:26
+ * @Date 2018/2/27 17:47
  * @Description: TODO
  */
 
-public interface HelloService {/**
- * say hello
- * @param name
- * @return
- */
-    public String sayHello(String name);
-
-
+public class Test {
 }
